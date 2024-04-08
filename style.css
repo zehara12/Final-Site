@@ -164,3 +164,23 @@ padding:33px;
 color:#E5E7EB; 
 text-align:center;
 }
+
+#font-size-widget {
+  position:fixed;
+  top: 60px;
+  right:900px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 9px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+display:flex;
+justify-content:space-between
+}
+
+button {
+  margin: 5px;
+  padding: 2px 5px;
+  font-size: 13px;
+  cursor: pointer;
+}
